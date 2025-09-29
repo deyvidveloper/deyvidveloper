@@ -10,11 +10,14 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> Sobre mí
 
-<picture><img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px](https://media.admagazine.com/photos/638e25bb9a9048f82856c0c7/16:9/w_2560%2Cc_limit/GettyImages-1443064180.jpg)"></picture>
+<picture><img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://wallpapers.com/images/hd/cristiano-ronaldo-manchester-united-back-shot-3s9uyzmh28mpw2t8.jpg)" width="250px"></picture>
 
-Desarrollador backend en formación, con conocimientos en Java y .NET, actualmente aprendiendo Spring Boot y 
-Angular. Aplico lo aprendido en proyectos académicos y personales, con enfoque en lógica, estructura y buenas prácticas. 
-Busco integrarme a una empresa como trainee para ganar experiencia laboral y seguir creciendo como programador.
+- 🎓 Estudiante de Computación e Informática en Cibertec (5to ciclo)
+- ⚙️ Especializado en desarrollo backend con Java y Spring Boot
+- 🧩 Experiencia práctica en .NET, JWT, JPA, PostgreSQL y arquitectura modular
+- 🅰️ Integrando Angular en proyectos fullstack con enfoque profesional
+- 📄 CV y proyectos listos para revisión técnica
+
 ---
 
 ## 🚀 Proyectos destacados
@@ -84,4 +87,5 @@ Busco integrarme a una empresa como trainee para ganar experiencia laboral y seg
 ---
 
 <div align="center">
-  <b>Gracias por visitar mi perfil
+  <b>Gracias por visitar mi perfil 🙌</b>
+</div>
