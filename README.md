@@ -10,7 +10,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> Sobre mí
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture><img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px](https://media.admagazine.com/photos/638e25bb9a9048f82856c0c7/16:9/w_2560%2Cc_limit/GettyImages-1443064180.jpg)"></picture>
 
 Desarrollador backend en formación, con conocimientos en Java y .NET, actualmente aprendiendo Spring Boot y 
 Angular. Aplico lo aprendido en proyectos académicos y personales, con enfoque en lógica, estructura y buenas prácticas. 
