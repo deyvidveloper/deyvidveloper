@@ -10,12 +10,14 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> Sobre mí
 
-<picture><img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://wallpapers.com/images/hd/cristiano-ronaldo-manchester-united-back-shot-3s9uyzmh28mpw2t8.jpg)" width="250px"></picture>
+<picture>
+  <img align="right" src="https://wallpapers.com/images/hd/cristiano-ronaldo-manchester-united-back-shot-3s9uyzmh28mpw2t8.jpg" width="250px">
+</picture>
 
-- 🎓 Estudiante de Computación e Informática en Cibertec (5to ciclo)
-- ⚙️ Especializado en desarrollo backend con Java y Spring Boot
-- 🧩 Experiencia práctica en .NET, JWT, JPA, PostgreSQL y arquitectura modular
-- 🅰️ Integrando Angular en proyectos fullstack con enfoque profesional
+- 🎓 Estudiante de Computación e Informática en Cibertec (5to ciclo)  
+- ⚙️ Especializado en desarrollo backend con Java y Spring Boot  
+- 🧩 Experiencia práctica en .NET, JWT, JPA, PostgreSQL y arquitectura modular  
+- 🅰️ Integrando Angular en proyectos fullstack con enfoque profesional  
 - 📄 CV y proyectos listos para revisión técnica
 
 ---
