@@ -8,11 +8,7 @@
 
 ---
 
-## 🧠 Sobre mí
-
-<p align="right">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250px">
-</p>
+## 🛠️ Sobre mí
 
 - 👨‍💻 Desarrollador backend en formación, con conocimientos en **Java** y **.NET**  
 - 🚀 Actualmente aprendiendo **Spring Boot** y **Angular** para fortalecer mis habilidades fullstack  
