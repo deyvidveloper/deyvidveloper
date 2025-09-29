@@ -12,12 +12,9 @@
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
-- 🎓 Estudiante de Computación e Informática en Cibertec (5to ciclo)
-- ⚙️ Especializado en desarrollo backend con Java y Spring Boot
-- 🧩 Experiencia práctica en .NET, JWT, JPA, PostgreSQL y arquitectura modular
-- 🅰️ Integrando Angular en proyectos fullstack con enfoque profesional
-- 📄 CV y proyectos listos para revisión técnica
-
+Desarrollador backend en formación, con conocimientos en Java y .NET, actualmente aprendiendo Spring Boot y 
+Angular. Aplico lo aprendido en proyectos académicos y personales, con enfoque en lógica, estructura y buenas prácticas. 
+Busco integrarme a una empresa como trainee para ganar experiencia laboral y seguir creciendo como programador.
 ---
 
 ## 🚀 Proyectos destacados
