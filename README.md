@@ -2,13 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=700&height=60&lines=Backend+Developer+en+formación;Apasionado+por+la+arquitectura+limpia+y+segura;Spring+Boot+%7C+.NET+%7C+JWT+%7C+PostgreSQL;Listo+para+integrar+equipos+profesionales">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=700&height=60&lines=C%23+%7C+.NET+%7C+SQL+Server+%7C+Bootstrap;Java+%7C+Spring+Boot+%7C+JWT+%7C+MySQL;Backend+Developer;Aplico+buenas+prácticas+y+arquitectura+modular;Buscando+experiencia+como+trainee+backend">
   </a>
 </p>
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> Sobre mí
+## 🧠 Sobre mí
+
+<p align="right">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250px">
+</p>
 
 - 👨‍💻 Desarrollador backend en formación, con conocimientos en **Java** y **.NET**  
 - 🚀 Actualmente aprendiendo **Spring Boot** y **Angular** para fortalecer mis habilidades fullstack  
@@ -78,8 +82,7 @@
 ## 🤝 Conectemos
 
 - 📧 deyvid.dev31@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/deyvidbustamante)  
-- 💻 [GitHub](https://github.com/deyvidveloper)
+- 🔗 [LinkedIn](https://linkedin.com/in/deyvidbustamante)
 
 ---
 
