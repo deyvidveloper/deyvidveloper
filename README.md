@@ -10,13 +10,15 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> Sobre mí
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture>
+  <img align="right" src="https://wallpapers.com/images/hd/cristiano-ronaldo-manchester-united-back-shot-3s9uyzmh28mpw2t8.jpg" width="250px">
+</picture>
 
-- 🎓 Estudiante de Computación e Informática en Cibertec (5to ciclo)
-- ⚙️ Especializado en desarrollo backend con Java y Spring Boot
-- 🧩 Experiencia práctica en .NET, JWT, JPA, PostgreSQL y arquitectura modular
-- 🅰️ Integrando Angular en proyectos fullstack con enfoque profesional
-- 📄 CV y proyectos listos para revisión técnica
+- 🎓 Estudiante de Computación e Informática en Cibertec (5to ciclo)  
+- ⚙️ Especializado en desarrollo backend con **Java**, **Spring Boot** y **.NET**  
+- 🧩 Experiencia práctica con JWT, JPA, PostgreSQL y arquitectura modular  
+- 🅰️ Actualmente aprendiendo **Angular** para complementar proyectos fullstack  
+- 📄 CV y proyectos backend listos para revisión técnica
 
 ---
 
@@ -53,7 +55,7 @@
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-en%20aprendizaje-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
