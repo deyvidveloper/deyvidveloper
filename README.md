@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=700&height=60&lines=C%23+%7C+ASP.NET+Core;Java+%7C+Spring+Boot+%7C+JWT+%7C+MySQL;Backend+Developer;Aplico+buenas+prácticas+y+arquitectura+modular;Buscando+experiencia+como+trainee+backend">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=700&height=60&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+Bootstrap;Java+%7C+Spring+Boot+%7C+JWT+%7C+MySQL;Backend+Developer;Buscando+experiencia+como+trainee+backend">
   </a>
 </p>
 
