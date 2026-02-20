@@ -20,7 +20,7 @@
 ## 🚀 Proyectos destacados
 
 - 🏥 **Sistema de Gestión de Atenciones Médicas**  
-  `Java 17 · Spring Boot · PostgreSQL · JWT · Roles`  
+  `Java 17 · Spring Boot · PostgreSQL · Spring Security · JWT · Roles`  
   API REST modular con validaciones, seguridad y arquitectura lista para integración frontend.
 
 - 🛏️ **Sistema de Reservas de Habitaciones**  
