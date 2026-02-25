@@ -71,8 +71,8 @@
 
 ## 🤝 Conectemos
 
-- 📧 <a href="mailto:deyvid.dev31@gmail.com" target="_blank">deyvid.dev31@gmail.com</a>  
-- 🔗 <a href="https://linkedin.com/in/deyvidbustamante" target="_blank">LinkedIn</a>
+- 📧 [deyvid.dev31@gmail.com](mailto:deyvid.dev31@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/deyvidbustamante)
 
 ---
 
