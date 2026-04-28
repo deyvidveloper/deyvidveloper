@@ -19,8 +19,8 @@
 
 ## 🚀 Proyectos destacados
 
-- 👕 **Sistema POS e Inventario - Urban Style** Solución Full Stack  
-  para gestión minorista con control de stock por variantes (tallas/colores), reportes en PDF/Excel y sistema de anulaciones con retorno automático de inventario.  
+- 👕 **Sistema POS e Inventario - Urban Style**   
+  Solución Full Stack para gestión minorista con control de stock por variantes (tallas/colores), reportes en PDF/Excel y sistema de anulaciones con retorno automático de inventario.  
   `ASP.NET Core (.NET 8) · React · Tailwind CSS · SQL Server · EF Core`
 
 - 🏥 **Sistema de Gestión de Atenciones Médicas** API REST  
