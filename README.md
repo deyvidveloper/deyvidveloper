@@ -19,14 +19,14 @@
 
 ## 🚀 Proyectos destacados
 
-- 👕 **Sistema POS e Inventario - Urban Style** `ASP.NET Core (.NET 8) · React · Tailwind CSS · SQL Server · EF Core`  
-  Sistema integral para el sector retail. Gestiona stock complejo por variantes (tallas y colores), emite boletas en **PDF**, genera reportes mensuales en **Excel** y cuenta con un sistema de anulaciones que sincroniza el inventario y el Kardex en tiempo real.
+- 👕 **Sistema POS e Inventario - Urban Style** Solución Full Stack para gestión minorista con control de stock por variantes (tallas/colores), reportes en PDF/Excel y sistema de anulaciones con retorno automático de inventario.  
+  `ASP.NET Core (.NET 8) · React · Tailwind CSS · SQL Server · EF Core`
 
-- 🏥 **Sistema de Gestión de Atenciones Médicas** `Java 17 · Spring Boot · PostgreSQL · Spring Security · JWT`  
-  API REST modular diseñada para la gestión clínica, con seguridad robusta mediante tokens y control de acceso por roles.
+- 🏥 **Sistema de Gestión de Atenciones Médicas** API REST modular diseñada para la gestión clínica, con validaciones de negocio y seguridad robusta mediante tokens JWT.  
+  `Java 17 · Spring Boot · PostgreSQL · Spring Security · JWT`
 
-- 🛏️ **Sistema de Reservas de Habitaciones** `Java 17 · Spring Boot · MySQL · Spring Security · Maven`  
-  Backend robusto para la administración hotelera con persistencia JPA y una estructura MVC clara y escalable.
+- 🛏️ **Sistema de Reservas de Habitaciones** Backend robusto para la administración hotelera que incluye control de disponibilidad, persistencia JPA y una estructura escalable.  
+  `Java 17 · Spring Boot · MySQL · Spring Security · Maven`
 
 ---
 
