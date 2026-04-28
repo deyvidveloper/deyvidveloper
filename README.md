@@ -10,10 +10,10 @@
 
 ## 🛠️ Sobre mí
 
-- 👨‍💻 Desarrollador de Software con experiencia en **Java** y **.NET**.
-- 🚀 Actualmente fortaleciendo habilidades Full Stack con **React** y **Tailwind CSS**, y explorando el desarrollo mobile con **Jetpack Compose**.
-- 🧠 Enfocado en escribir código limpio, lógica sólida y soluciones que resuelvan problemas reales de negocio.
-- 🎯 Busco mi primera oportunidad como **Trainee / Junior** para aportar valor y seguir creciendo profesionalmente.
+- 👨‍💻 Desarrollador de Software con sólida base en **Java** y especialización en el ecosistema **.NET**.
+- 🚀 Actualmente enfocado en el desarrollo de aplicaciones Full Stack utilizando **React** con **Tailwind CSS**.
+- 🧠 Interesado en la arquitectura de software, el desarrollo de videojuegos móviles y la implementación de lógica de negocio compleja.
+- 🎯 En búsqueda activa de mi primera oportunidad profesional como **Trainee / Junior** para aportar valor en entornos de backend y mobile.
 
 ---
 
@@ -22,10 +22,10 @@
 - 👕 **Sistema POS e Inventario - Urban Style** Solución Full Stack para gestión minorista con control de stock por variantes (tallas/colores), reportes en PDF/Excel y sistema de anulaciones con retorno automático de inventario.  
   `ASP.NET Core (.NET 8) · React · Tailwind CSS · SQL Server · EF Core`
 
-- 🏥 **Sistema de Gestión de Atenciones Médicas** API REST modular diseñada para la gestión clínica, con validaciones de negocio y seguridad robusta mediante tokens JWT.  
+- 🏥 **Sistema de Gestión de Atenciones Médicas** API REST modular diseñada para la gestión clínica, con validaciones estrictas y seguridad robusta implementada mediante tokens JWT.  
   `Java 17 · Spring Boot · PostgreSQL · Spring Security · JWT`
 
-- 🛏️ **Sistema de Reservas de Habitaciones** Backend robusto para la administración hotelera que incluye control de disponibilidad, persistencia JPA y una estructura escalable.  
+- 🛏️ **Sistema de Reservas de Habitaciones** Backend escalable para la administración hotelera que incluye gestión de disponibilidad, persistencia de datos con JPA y arquitectura MVC.  
   `Java 17 · Spring Boot · MySQL · Spring Security · Maven`
 
 ---
