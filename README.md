@@ -21,7 +21,7 @@
 
 - 👕 **Sistema POS e Inventario - Urban Style** <br>
   Solución Full Stack para gestión minorista con control de stock por variantes (tallas/colores), reportes en PDF/Excel y sistema de anulaciones con retorno automático de inventario.  
-  `ASP.NET Core (.NET 8) · React · Tailwind CSS · SQL Server · EF Core`
+  `ASP.NET Core (.NET 8) · React · Tailwind CSS · SQL Server`
 
 - 🏥 **Sistema de Gestión de Atenciones Médicas** <br>
   API REST modular con validaciones, seguridad y arquitectura lista para integración frontend.  
