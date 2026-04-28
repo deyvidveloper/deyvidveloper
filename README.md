@@ -10,9 +10,10 @@
 
 ## 🛠️ Sobre mí
 
-- 👨‍💻 Desarrollador de Software, con experiencia en **Java** y **.NET** - 🚀 Actualmente aprendiendo **Angular** y **Jetpack Compose** para fortalecer mis habilidades fullstack y mobile  
-- 🧠 Aplico lo aprendido en proyectos académicos y personales, con enfoque en lógica, estructura y buenas prácticas  
-- 🎯 Busco integrarme como trainee en una empresa para ganar experiencia laboral y seguir creciendo como programador  
+- 👨‍💻 Desarrollador de Software, con experiencia en **Java** y **.NET**
+- 🚀 Actualmente aprendiendo **Angular** y **Jetpack Compose** para fortalecer mis habilidades fullstack y mobile
+- 🧠 Aplico lo aprendido en proyectos académicos y personales, con enfoque en lógica, estructura y buenas prácticas
+- 🎯 Busco integrarme como trainee en una empresa para ganar experiencia laboral y seguir creciendo como programador
 
 ---
 
@@ -66,7 +67,7 @@
 
 ## 🤝 Conectemos
 
-- 📧 [deyvid.dev31@gmail.com](mailto:deyvid.dev31@gmail.com)  
+- 📧 [deyvid.dev31@gmail.com](mailto:deyvid.dev31@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/deyvidbustamante)
 
 ---
